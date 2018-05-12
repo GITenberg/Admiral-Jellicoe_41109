@@ -1,0 +1,30 @@
+_repo: Admiral-Jellicoe_41109
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41109-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Applin, Arthur
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '40988'
+    url: http://www.gutenberg.org/2009/agents/40988
+description: Military history buffs will appreciate this exhaustively researched and
+  richly detailed biography of Admiral John Jellicoe, a leader in the British Navy
+  who rose to prominence for his battlefield successes during World War I, including,
+  most notably, for his unconventional but successful tactics in the Battle of Jutland.
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41109'
+  lccn: '15022701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jellicoe, John Rushworth, 1859-1935'
+- !lcc 'DA'
+title: Admiral Jellicoe
+url: http://www.gutenberg.org/ebooks/41109
